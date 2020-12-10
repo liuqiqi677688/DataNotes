@@ -10,10 +10,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>note_5_发送HTTP请求工具</artifactId>
+    <packaging>pom</packaging>
 
     <modules>
         <module>httpclientutil</module>
         <module>retrofit</module>
+        <module>httpclientutil-bak</module>
     </modules>
 
 
