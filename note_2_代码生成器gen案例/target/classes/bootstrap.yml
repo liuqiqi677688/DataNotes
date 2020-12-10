@@ -1,0 +1,6 @@
+spring: 
+    application:
+        name: gen-demo  #应用名称
+        
+server:
+    port: 6969 #应用启动端口

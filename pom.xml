@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>note_1_理论收集</module>
+        <module>note_2_代码生成器gen案例</module>
     </modules>
 
 
